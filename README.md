@@ -1,7 +1,7 @@
 # Conf-Mar-2-Eri-NTU
 Contains the all the files made for this conference
 
-Use spyder to run the code.
+Suggested to use spyder to run the code. Any other environment with the necessary libraries imported will still be of no problem.
 
 Code Description for the file: Mar2_Code_With functions.py
 
