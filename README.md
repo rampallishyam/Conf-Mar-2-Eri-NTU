@@ -5,6 +5,8 @@ Suggested to use spyder to run the code. Any other environment with the necessar
 
 Code Description for the file: Mar2_Code_With functions.py
 
+Libraries to install: pyshp, scikit-learn, or-tools
+
 Approach:
 1. Considers the real loactions of defined AV_stops and parking locations
 2. applies the heuristic developed for this research work and generates Vehicle-stop pairs
