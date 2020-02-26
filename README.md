@@ -11,7 +11,7 @@ pyshp, scikit-learn, or-tools
 #### Files to include in the code
 Download the shaefile from this repo, fill the path in the place indicated below
 
-     reader = shapefile.Reader(r"path of the file")
+     reader = shapefile.Reader(r"path of the .shp file")
 The first time you see the above code include the path of the file "AV Stops.shp" and the second time with the other shape file.
 
 There is only one excel file. please include that in the code where you see teh below.
