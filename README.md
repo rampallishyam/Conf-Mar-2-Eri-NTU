@@ -10,7 +10,7 @@ pyshp, scikit-learn, or-tools
 
 Download the shaefile from this repo, fill the path in the place indicated below
 
-     reader= shapefile.Reader(r"path of the file")
+     reader = shapefile.Reader(r"path of the file")
 
 #### Approach:
 1. Considers the real loactions of defined AV_stops and parking locations
