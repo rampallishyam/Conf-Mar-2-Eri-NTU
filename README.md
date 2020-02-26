@@ -12,7 +12,12 @@ pyshp, scikit-learn, or-tools
 Download the shaefile from this repo, fill the path in the place indicated below
 
      reader = shapefile.Reader(r"path of the file")
+The first time you see the above code include the path of the file "AV Stops.shp" and the second time with the other shape file.
 
+There is only one excel file. please include that in the code where you see teh below.
+
+          all_points_df = pd.read_csv(r"path of the csv file")
+          
 #### Approach:
 1. Considers the real loactions of defined AV_stops and parking locations
 2. applies the heuristic developed for this research work and generates Vehicle-stop pairs
