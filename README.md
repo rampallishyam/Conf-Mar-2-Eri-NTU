@@ -8,6 +8,7 @@ Suggested to use spyder to run the code. Any other environment with the necessar
 #### Libraries to install
 pyshp, scikit-learn, or-tools
 
+#### Files to include in the code
 Download the shaefile from this repo, fill the path in the place indicated below
 
      reader = shapefile.Reader(r"path of the file")
