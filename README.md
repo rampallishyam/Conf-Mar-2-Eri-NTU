@@ -8,6 +8,10 @@ Suggested to use spyder to run the code. Any other environment with the necessar
 #### Libraries to install
 pyshp, scikit-learn, or-tools
 
+Download the shaefile from this repo, fill the path in the place indicated below
+
+     reader= shapefile.Reader(r"path of the file")
+
 #### Approach:
 1. Considers the real loactions of defined AV_stops and parking locations
 2. applies the heuristic developed for this research work and generates Vehicle-stop pairs
